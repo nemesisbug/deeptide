@@ -1,5 +1,12 @@
 # DEEPTIDE
 
+[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/nemesisbug/deeptide/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/nemesisbug/deeptide/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+
+Built for the [make.fun bounty "Race a BTC trading bot live for 24 hours"](https://make.fun/bounty/btc-race-24h-20261118-1444).
+Referral code: `w642jqgx` — join make.fun: https://make.fun/r/w642jqgx
+
 A BTC trading bot for the make.fun **btc-race-24h-20261118-1444** bounty:
 it trades Coinbase Wrapped BTC (cbBTC) against USDC on 1-minute on-chain
 bars, long only, from $1,000 of paper money.
